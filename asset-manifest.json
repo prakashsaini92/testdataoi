@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "./static/css/main.fcd73b6c.css",
-    "main.js": "./static/js/main.e7661fdf.js",
-    "static/js/453.c5fb9011.chunk.js": "./static/js/453.c5fb9011.chunk.js",
+    "main.css": "./static/css/main.cce45f5a.css",
+    "main.js": "./static/js/main.961b39c4.js",
+    "static/js/685.0023a2c4.chunk.js": "./static/js/685.0023a2c4.chunk.js",
     "static/media/Satoshi-MediumItalic.woff": "./static/media/Satoshi-MediumItalic.86c8af8d94333419d1f0.woff",
     "static/media/Satoshi-BoldItalic.woff": "./static/media/Satoshi-BoldItalic.c2375c60c4ba284da384.woff",
     "static/media/Satoshi-Italic.woff": "./static/media/Satoshi-Italic.c3a402d623738cc4edc4.woff",
@@ -47,13 +47,10 @@
     "static/media/FONTSPRINGDEMO-IntegralCFMediumRegular.woff2": "./static/media/FONTSPRINGDEMO-IntegralCFMediumRegular.2c1ec15f525a7ff83bf3.woff2",
     "static/media/FONTSPRINGDEMO-IntegralCFBoldRegular.woff2": "./static/media/FONTSPRINGDEMO-IntegralCFBoldRegular.f25695fe03950fdad603.woff2",
     "static/media/FONTSPRINGDEMO-IntegralCFRegular.woff2": "./static/media/FONTSPRINGDEMO-IntegralCFRegular.2e41bc350b003e605232.woff2",
-    "index.html": "./index.html",
-    "main.fcd73b6c.css.map": "./static/css/main.fcd73b6c.css.map",
-    "main.e7661fdf.js.map": "./static/js/main.e7661fdf.js.map",
-    "453.c5fb9011.chunk.js.map": "./static/js/453.c5fb9011.chunk.js.map"
+    "index.html": "./index.html"
   },
   "entrypoints": [
-    "static/css/main.fcd73b6c.css",
-    "static/js/main.e7661fdf.js"
+    "static/css/main.cce45f5a.css",
+    "static/js/main.961b39c4.js"
   ]
 }
