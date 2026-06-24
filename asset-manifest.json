@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.cce45f5a.css",
-    "main.js": "./static/js/main.961b39c4.js",
+    "main.js": "./static/js/main.197e30be.js",
     "static/js/685.0023a2c4.chunk.js": "./static/js/685.0023a2c4.chunk.js",
     "static/media/Satoshi-MediumItalic.woff": "./static/media/Satoshi-MediumItalic.86c8af8d94333419d1f0.woff",
     "static/media/Satoshi-BoldItalic.woff": "./static/media/Satoshi-BoldItalic.c2375c60c4ba284da384.woff",
@@ -51,6 +51,6 @@
   },
   "entrypoints": [
     "static/css/main.cce45f5a.css",
-    "static/js/main.961b39c4.js"
+    "static/js/main.197e30be.js"
   ]
 }
