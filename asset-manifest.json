@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.847c8835.css",
-    "main.js": "./static/js/main.ed1e2074.js",
+    "main.css": "./static/css/main.75a794c2.css",
+    "main.js": "./static/js/main.da2b7be5.js",
     "static/js/685.0023a2c4.chunk.js": "./static/js/685.0023a2c4.chunk.js",
     "static/media/Satoshi-MediumItalic.woff": "./static/media/Satoshi-MediumItalic.86c8af8d94333419d1f0.woff",
     "static/media/Satoshi-BoldItalic.woff": "./static/media/Satoshi-BoldItalic.c2375c60c4ba284da384.woff",
@@ -50,7 +50,7 @@
     "index.html": "./index.html"
   },
   "entrypoints": [
-    "static/css/main.847c8835.css",
-    "static/js/main.ed1e2074.js"
+    "static/css/main.75a794c2.css",
+    "static/js/main.da2b7be5.js"
   ]
 }
